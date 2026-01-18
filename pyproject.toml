@@ -1,0 +1,13 @@
+[project]
+name = "aiml-lab"
+version = "0.1.0"
+description = "Programs from the AIML Lab Assignment"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "matplotlib>=3.10.8",
+    "networkx>=3.6.1",
+    "numpy>=2.4.1",
+    "scipy>=1.17.0",
+]
